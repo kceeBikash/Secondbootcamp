@@ -1,2 +1,4 @@
-<div>This is a new element</div>
-<div>After commit changing</div>
+<div>This is a new deeb component.</div>
+<div>This is a new scscs component.</div>
+<div>This is a new component.</div>
+<div>This is a new  scscsc component.</div>
